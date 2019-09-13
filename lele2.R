@@ -1,3 +1,3 @@
 print("Hello world!")
 
-alterando aqui dentro!
+print("alterando aqui dentro")
